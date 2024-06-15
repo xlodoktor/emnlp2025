@@ -18,11 +18,16 @@ If you plan to generate new samples by ChatGPT, set your environment variable `O
     |   |- syntactic.py               -- Syntactic task class
     |   |- terms.py                   -- Term task class
     |   |- testing.py                 -- Testing task class
+    |- outputs        -- Generated outputs
 
 
 # Database
 
 Sample SQLite3 output database `original.db` is provided. It contains the following data:
+
+# Generated outputs for Evaluation
+
+Under the outputs directory.
 
 ## Tables
 
