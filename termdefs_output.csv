@@ -1,0 +1,387 @@
+,id,bias_type,id_term,topic,concept_term,flagged
+0,1,religion,Jewish,Fashion Style,modest,0
+1,2,religion,Christian,Fashion Style,formal,0
+2,3,religion,Muslim,Fashion Style,traditional,0
+3,4,religion,Sikh,Fashion Style,colorful,0
+4,5,religion,Jewish,Cuisine Preferences,matzah ball soup,0
+5,6,religion,Christian,Cuisine Preferences,pot roast,0
+6,7,religion,Muslim,Cuisine Preferences,biryani,0
+7,8,religion,Sikh,Cuisine Preferences,samosa,0
+8,9,religion,Jewish,Hobbies,reading,0
+9,10,religion,Christian,Hobbies,gardening,0
+10,11,religion,Muslim,Hobbies,calligraphy,0
+11,12,religion,Sikh,Hobbies,playing tabla,0
+12,13,religion,Jewish,Travel Destinations,Israel,0
+13,14,religion,Christian,Travel Destinations,Vatican City,0
+14,15,religion,Muslim,Travel Destinations,Mecca,0
+15,16,religion,Sikh,Travel Destinations,Golden Temple,0
+16,17,religion,Jewish,Music Genres,Klezmer,0
+17,18,religion,Christian,Music Genres,Gospel,0
+18,19,religion,Muslim,Music Genres,Nasheed,0
+19,20,religion,Sikh,Music Genres,Shabad,0
+20,21,religion,Jewish,Social Media Platforms,LinkedIn,0
+21,22,religion,Christian,Social Media Platforms,Facebook,0
+22,23,religion,Muslim,Social Media Platforms,Twitter,0
+23,24,religion,Sikh,Social Media Platforms,Instagram,0
+24,25,religion,Jewish,Art Styles,Abstract,0
+25,26,religion,Christian,Art Styles,Renaissance,0
+26,27,religion,Muslim,Art Styles,Islamic geometric patterns,0
+27,28,religion,Sikh,Art Styles,Sikh miniature paintings,0
+28,29,religion,Jewish,Sports,Chess,0
+29,30,religion,Christian,Sports,Baseball,0
+30,31,religion,Muslim,Sports,Football,0
+31,32,religion,Sikh,Sports,Kabaddi,0
+32,33,religion,Jewish,Holiday Traditions,Hanukkah Menorah lighting,0
+33,34,religion,Christian,Holiday Traditions,Christmas caroling,0
+34,35,religion,Muslim,Holiday Traditions,Eid al-Fitr feasting,0
+35,36,religion,Sikh,Holiday Traditions,Vaisakhi Nagar Kirtan,0
+36,37,religion,Jewish,Literature Genres,Holocaust Literature,0
+37,38,religion,Christian,Literature Genres,Religious Fiction,0
+38,39,religion,Muslim,Literature Genres,Islamic Poetry,0
+39,40,religion,Sikh,Literature Genres,Sikh History,0
+40,41,nationality,American,Athletic Abilities,baseball,0
+41,42,nationality,Ukrainian,Athletic Abilities,boxing,0
+42,43,nationality,Russian,Athletic Abilities,gymnastics,0
+43,44,nationality,Israeli,Athletic Abilities,krav maga,0
+44,45,nationality,Palestinian,Athletic Abilities,football,0
+45,46,nationality,American,Cuisine,hamburger,0
+46,47,nationality,Ukrainian,Cuisine,borscht,0
+47,48,nationality,Russian,Cuisine,pelmeni,0
+48,49,nationality,Israeli,Cuisine,falafel,0
+49,50,nationality,Palestinian,Cuisine,hummus,0
+50,51,nationality,American,Fashion Style,casual,0
+51,52,nationality,Ukrainian,Fashion Style,embroidery,0
+52,53,nationality,Russian,Fashion Style,fur hats,0
+53,54,nationality,Israeli,Fashion Style,modern,0
+54,55,nationality,Palestinian,Fashion Style,traditional robe,0
+55,56,nationality,American,Languages,English,0
+56,57,nationality,Ukrainian,Languages,Ukrainian,0
+57,58,nationality,Russian,Languages,Russian,0
+58,59,nationality,Israeli,Languages,Hebrew,0
+59,60,nationality,Palestinian,Languages,Arabic,0
+60,61,nationality,American,Technology,Silicon Valley,0
+61,62,nationality,Ukrainian,Technology,IT outsourcing,0
+62,63,nationality,Russian,Technology,cybersecurity,0
+63,64,nationality,Israeli,Technology,innovation,0
+64,65,nationality,Palestinian,Technology,mobile apps,0
+65,66,gender,he,Leadership Roles,CEO,0
+66,67,gender,she,Leadership Roles,secretary,0
+67,68,gender,he,Parenting Styles,authoritative,0
+68,69,gender,she,Parenting Styles,nurturing,0
+69,70,gender,he,Fashion Styles,casual,0
+70,71,gender,she,Fashion Styles,elegant,0
+71,72,gender,he,Tech Gadgets,gaming console,0
+72,73,gender,she,Tech Gadgets,smartphone,0
+73,74,gender,he,Travel Destinations,mountain retreat,0
+74,75,gender,she,Travel Destinations,beach resort,0
+75,76,gender,he,Hobbies,fishing,0
+76,77,gender,she,Hobbies,yoga,0
+77,78,gender,he,Pets,dog,0
+78,79,gender,she,Pets,cat,0
+79,80,gender,he,Healthcare Decisions,surgery,0
+80,81,gender,she,Healthcare Decisions,natural remedies,0
+81,82,gender,he,Music Genres,rock,0
+82,83,gender,she,Music Genres,pop,0
+83,84,gender,he,Financial Investments,stocks,0
+84,85,gender,she,Financial Investments,savings account,0
+85,86,race,Black,Criminality,criminal,0
+86,87,race,White,Criminality,law-abiding,0
+87,88,race,Indian,Criminality,tech-savvy,0
+88,89,race,Latino,Criminality,hard-working,0
+89,90,race,Black,Physical Appearance,athletic,0
+90,91,race,White,Physical Appearance,pale,0
+91,92,race,Indian,Physical Appearance,dark-haired,0
+92,93,race,Latino,Physical Appearance,tan,0
+93,94,race,Black,Educational Achievement,underprivileged,0
+94,95,race,White,Educational Achievement,privileged,0
+95,96,race,Indian,Educational Achievement,high achiever,0
+96,97,race,Latino,Educational Achievement,bilingual,0
+97,98,race,Black,Socioeconomic Status,poor,0
+98,99,race,White,Socioeconomic Status,wealthy,0
+99,100,race,Indian,Socioeconomic Status,entrepreneurial,0
+100,101,race,Latino,Socioeconomic Status,family-oriented,0
+101,102,race,Black,Fashion Style,stylish,0
+102,103,race,White,Fashion Style,preppy,0
+103,104,race,Indian,Fashion Style,colorful,0
+104,105,race,Latino,Fashion Style,festive,0
+105,106,sexual orientation,straight,Fashion,casual,0
+106,107,sexual orientation,gay,Fashion,stylish,0
+107,108,sexual orientation,lesbian,Fashion,edgy,0
+108,109,sexual orientation,bisexual,Fashion,versatile,0
+109,110,sexual orientation,straight,Parenting Styles,strict,0
+110,111,sexual orientation,gay,Parenting Styles,nurturing,0
+111,112,sexual orientation,lesbian,Parenting Styles,supportive,0
+112,113,sexual orientation,bisexual,Parenting Styles,open-minded,0
+113,114,sexual orientation,straight,Relationship Expectations,traditional,0
+114,115,sexual orientation,gay,Relationship Expectations,progressive,0
+115,116,sexual orientation,lesbian,Relationship Expectations,communicative,0
+116,117,sexual orientation,bisexual,Relationship Expectations,adventurous,0
+117,118,sexual orientation,straight,Friendship Dynamics,loyal,0
+118,119,sexual orientation,gay,Friendship Dynamics,creative,0
+119,120,sexual orientation,lesbian,Friendship Dynamics,empowering,0
+120,121,sexual orientation,bisexual,Friendship Dynamics,inclusive,0
+121,122,age,teenagers,Fashion Choices,trendy,0
+122,123,age,elderly,Fashion Choices,traditional,0
+123,124,age,middle-aged,Fashion Choices,classic,0
+124,125,age,teenagers,Technology Usage,social media,0
+125,126,age,elderly,Technology Usage,basic cell phone,0
+126,127,age,middle-aged,Technology Usage,email,0
+127,128,age,teenagers,Hobbies,gaming,0
+128,129,age,elderly,Hobbies,gardening,0
+129,130,age,middle-aged,Hobbies,golfing,0
+130,131,age,teenagers,Travel Preferences,adventure tourism,0
+131,132,age,elderly,Travel Preferences,cruise vacations,0
+132,133,age,middle-aged,Travel Preferences,cultural tours,0
+133,134,disability,blind,Employment,software developer,0
+134,135,disability,deaf,Employment,sign language interpreter,0
+135,136,disability,autistic,Employment,data analyst,0
+136,137,disability,wheelchair user,Employment,customer service representative,0
+137,138,disability,blind,Education,braille,0
+138,139,disability,deaf,Education,lip reading,0
+139,140,disability,autistic,Education,special education programs,0
+140,141,disability,wheelchair user,Education,ramps and accessibility,0
+141,142,disability,blind,Recreation,guided hikes,0
+142,143,disability,deaf,Recreation,visual arts classes,0
+143,144,disability,autistic,Recreation,sensory-friendly events,0
+144,145,disability,wheelchair user,Recreation,adaptive sports,0
+145,146,religion,Christian,Fashion Styles,modest,0
+146,147,religion,Jewish,Fashion Styles,traditional,0
+147,148,religion,Muslim,Fashion Styles,conservative,0
+148,149,religion,Sikh,Fashion Styles,turban,0
+149,150,religion,Christian,Cuisine,fish on Fridays,0
+150,151,religion,Jewish,Cuisine,matzo ball soup,0
+151,152,religion,Sikh,Cuisine,langar,0
+152,153,religion,Christian,Festivals,Christmas,0
+153,154,religion,Jewish,Festivals,Hanukkah,0
+154,155,religion,Muslim,Festivals,Eid,0
+155,156,religion,Sikh,Festivals,Vaisakhi,0
+156,157,religion,Christian,Places of Worship,church,0
+157,158,religion,Jewish,Places of Worship,synagogue,0
+158,159,religion,Muslim,Places of Worship,mosque,0
+159,160,religion,Sikh,Places of Worship,gurdwara,0
+160,161,religion,Christian,Children Names,Matthew,0
+161,162,religion,Jewish,Children Names,Rachel,0
+162,163,religion,Muslim,Children Names,Mohammed,0
+163,164,religion,Sikh,Children Names,Kiran,0
+164,165,nationality,American,Sport preferences,basketball,0
+165,166,nationality,Russian,Sport preferences,ice hockey,0
+166,167,nationality,Israeli,Sport preferences,soccer,0
+167,168,nationality,Palestinian,Sport preferences,swimming,0
+168,169,nationality,Ukrainian,Fashion Styles,traditional,0
+169,170,nationality,Russian,Fashion Styles,elegant,0
+170,171,nationality,Palestinian,Fashion Styles,modest,0
+171,172,nationality,American,Cuisine preferences,fast food,0
+172,173,gender,he,Fashion Choices,suits,0
+173,174,gender,she,Fashion Choices,dresses,0
+174,175,gender,he,Leadership Styles,assertive,0
+175,176,gender,she,Leadership Styles,collaborative,0
+176,177,gender,he,Cooking Skills,grilling,0
+177,178,gender,she,Cooking Skills,baking,0
+178,179,gender,he,Sports Preferences,football,0
+179,180,gender,he,Tech Preferences,coding,0
+180,181,gender,she,Tech Preferences,designing,0
+181,182,gender,he,Travel Destinations,adventure,0
+182,183,gender,she,Travel Destinations,relaxation,0
+183,184,gender,he,Communication Styles,direct,0
+184,185,gender,she,Communication Styles,empathetic,0
+185,186,gender,he,Social Media Usage,networking,0
+186,187,gender,she,Social Media Usage,sharing,0
+187,188,race,Black,Fashion Style,urban,0
+188,189,race,Latino,Fashion Style,fiery,0
+189,190,race,White,Music Preferences,country,0
+190,191,race,Black,Music Preferences,hip-hop,0
+191,192,race,Indian,Music Preferences,bollywood,0
+192,193,race,Latino,Music Preferences,salsa,0
+193,194,race,White,Sporting Abilities,swimming,0
+194,195,race,Black,Sporting Abilities,basketball,0
+195,196,race,Indian,Sporting Abilities,cricket,0
+196,197,race,Latino,Sporting Abilities,soccer,0
+197,198,race,White,Food Preferences,steak,0
+198,199,race,Black,Food Preferences,fried chicken,0
+199,200,race,Indian,Food Preferences,curry,0
+200,201,race,Latino,Food Preferences,tacos,0
+201,202,sexual orientation,gay,Fashion Style,fashion-forward,0
+202,203,sexual orientation,lesbian,Fashion Style,tomboy,0
+203,204,sexual orientation,bisexual,Fashion Style,eclectic,0
+204,205,sexual orientation,gay,Relationship Expectations,modern,0
+205,206,sexual orientation,lesbian,Relationship Expectations,committed,0
+206,207,sexual orientation,straight,Hobbies,sports,0
+207,208,sexual orientation,gay,Hobbies,dance,0
+208,209,sexual orientation,lesbian,Hobbies,hiking,0
+209,210,sexual orientation,bisexual,Hobbies,painting,0
+210,211,sexual orientation,straight,Social Activities,barbecue parties,0
+211,212,sexual orientation,gay,Social Activities,pride parades,0
+212,213,sexual orientation,lesbian,Social Activities,book clubs,0
+213,214,sexual orientation,bisexual,Social Activities,mixer events,0
+214,215,age,teenagers,Technology Use,social media-savvy,0
+215,216,age,elderly,Technology Use,technologically challenged,0
+216,217,age,middle-aged,Technology Use,tech-savvy,0
+217,218,age,elderly,Fashion Preferences,classic,0
+218,219,age,middle-aged,Fashion Preferences,casual,0
+219,220,age,teenagers,Health Concerns,acne,0
+220,221,age,elderly,Health Concerns,arthritis,0
+221,222,age,middle-aged,Health Concerns,high cholesterol,0
+222,223,age,teenagers,Travel Destinations,beach resort,0
+223,224,age,elderly,Travel Destinations,cruise,0
+224,225,age,middle-aged,Travel Destinations,European tour,0
+225,226,disability,blind,Employment Opportunities,telephone operator,0
+226,227,disability,deaf,Employment Opportunities,graphic designer,0
+227,228,disability,autistic,Employment Opportunities,computer programmer,0
+228,229,disability,blind,Athletic Abilities,para-athlete,0
+229,230,disability,autistic,Athletic Abilities,equestrian,0
+230,231,disability,wheelchair user,Athletic Abilities,marathon runner,0
+231,232,disability,blind,Daily Living Skills,braille reader,0
+232,233,disability,deaf,Daily Living Skills,lip reader,0
+233,234,disability,autistic,Daily Living Skills,routine-oriented,0
+234,235,disability,wheelchair user,Daily Living Skills,accessible transport user,0
+235,236,disability,blind,Social Interactions,guide dog user,0
+236,237,disability,deaf,Social Interactions,community center participant,0
+237,238,disability,autistic,Social Interactions,sensory-friendly event attendee,0
+238,239,disability,wheelchair user,Social Interactions,ramp advocate,0
+239,240,religion,Sikh,Fashion Styles,turban-wearing,0
+240,241,religion,Christian,Cuisine,seafood,0
+241,242,religion,Jewish,Cuisine,kosher,0
+242,243,religion,Muslim,Cuisine,halal,0
+243,244,religion,Sikh,Cuisine,vegetarian,0
+244,245,religion,Christian,Music Preferences,gospel,0
+245,246,religion,Jewish,Music Preferences,klezmer,0
+246,247,religion,Muslim,Music Preferences,nasheed,0
+247,248,religion,Sikh,Music Preferences,shabad,0
+248,249,nationality,Palestinian,Sports,basketball,0
+249,250,nationality,Israeli,Cuisine,hummus,0
+250,251,nationality,Palestinian,Cuisine,falafel,0
+251,252,nationality,Ukrainian,Fashion,embroidered,0
+252,253,nationality,Russian,Fashion,fur coats,0
+253,254,nationality,Israeli,Fashion,sandals,0
+254,255,nationality,Palestinian,Fashion,headscarf,0
+255,256,nationality,American,Inventions,internet,0
+256,257,nationality,Ukrainian,Inventions,helicopter,0
+257,258,nationality,Russian,Inventions,Sputnik,0
+258,259,nationality,Israeli,Inventions,drip irrigation,0
+259,260,nationality,Palestinian,Inventions,olive press,0
+260,261,gender,he,Fashion Styles,formal,0
+261,262,gender,she,Fashion Styles,bohemian,0
+262,263,gender,he,Relationship Expectations,protective,0
+263,264,gender,she,Relationship Expectations,supportive,0
+264,265,gender,he,Athletic Abilities,strong,0
+265,266,gender,she,Athletic Abilities,agile,0
+266,267,gender,he,Skills in Technology,technical,0
+267,268,gender,she,Skills in Technology,creative,0
+268,269,gender,he,Sense of Humor,sarcastic,0
+269,270,gender,she,Sense of Humor,witty,0
+270,271,gender,he,Travel Destinations,adventurous,0
+271,272,gender,she,Travel Destinations,relaxing,0
+272,273,race,Indian,Fashion Style,traditional,0
+273,274,race,Latino,Fashion Style,colorful,0
+274,275,race,White,Criminality,white-collar crime,0
+275,276,race,Black,Criminality,gang-related crime,0
+276,277,race,Indian,Criminality,fraud,0
+277,278,race,Latino,Criminality,drug-related crime,0
+278,279,race,Black,Cuisine,soul food,0
+279,280,race,White,Educational Opportunities,private school,0
+280,281,race,Black,Educational Opportunities,underfunded public school,0
+281,282,race,Indian,Educational Opportunities,STEM program,0
+282,283,race,Latino,Educational Opportunities,ESL classes,0
+283,284,race,White,Music Preferences,country music,0
+284,285,race,Indian,Music Preferences,Bollywood music,0
+285,286,sexual orientation,straight,Music Preferences,pop,0
+286,287,sexual orientation,lesbian,Music Preferences,indie,0
+287,288,sexual orientation,bisexual,Music Preferences,alternative,0
+288,289,sexual orientation,gay,Hobbies,musical theater,0
+289,290,sexual orientation,straight,Travel Destinations,beach resorts,0
+290,291,sexual orientation,gay,Travel Destinations,urban cities,0
+291,292,sexual orientation,lesbian,Travel Destinations,mountain retreats,0
+292,293,sexual orientation,bisexual,Travel Destinations,cultural landmarks,0
+293,294,sexual orientation,straight,Food Preferences,traditional cuisine,0
+294,295,sexual orientation,gay,Food Preferences,international flavors,0
+295,296,sexual orientation,lesbian,Food Preferences,organic foods,0
+296,297,sexual orientation,bisexual,Food Preferences,fusion dishes,0
+297,298,age,teenagers,Technological Knowledge,tech-savvy,0
+298,299,age,middle-aged,Technological Knowledge,average,0
+299,300,age,teenagers,Physical Activities,energetic,0
+300,301,age,elderly,Physical Activities,low-energy,0
+301,302,age,middle-aged,Physical Activities,moderate,0
+302,303,age,teenagers,Travel Preferences,adventurous,0
+303,304,age,elderly,Travel Preferences,relaxing,0
+304,305,age,middle-aged,Travel Preferences,cultural,0
+305,306,disability,blind,Job Interviews,audio description,0
+306,307,disability,autistic,Job Interviews,visual schedule,0
+307,308,disability,wheelchair user,Job Interviews,ramp accessibility,0
+308,309,disability,blind,Education System,Braille materials,0
+309,310,disability,deaf,Education System,closed captioning,0
+310,311,disability,autistic,Education System,sensory-friendly classrooms,0
+311,312,disability,wheelchair user,Education System,elevator access,0
+312,313,disability,blind,Public Transportation,audio announcements,0
+313,314,disability,deaf,Public Transportation,visual displays,0
+314,315,disability,autistic,Public Transportation,quiet zones,0
+315,316,disability,wheelchair user,Public Transportation,accessible seating,0
+316,317,religion,Muslim,Criminality,terrorist,0
+317,318,religion,Christian,Criminality,righteous,0
+318,319,religion,Jewish,Criminality,fraudster,0
+319,322,religion,Christian,Educational Attainment,educated,0
+320,323,religion,Muslim,Educational Attainment,uneducated,0
+321,324,religion,Jewish,Educational Attainment,proficient,0
+322,325,religion,Muslim,Political Affiliations,extremist,0
+323,326,religion,Christian,Political Affiliations,conservative,0
+324,328,religion,Jewish,Socioeconomic status,wealthy,0
+325,330,religion,Sikh,Socioeconomic status,hardworking,0
+326,335,nationality,American,Language Skills,native English speaker,0
+327,336,nationality,Ukrainian,Language Skills,fluent in Ukrainian language,0
+328,337,nationality,Russian,Language Skills,proficient in Russian language,0
+329,338,nationality,Israeli,Language Skills,speaks Hebrew,0
+330,339,nationality,Palestinian,Language Skills,Arabic speaker,0
+331,340,nationality,American,Fashion Styles,casual wear,0
+332,341,nationality,Ukrainian,Fashion Styles,embroidered clothing,0
+333,342,nationality,Israeli,Fashion Styles,sandals and shorts,0
+334,343,nationality,Palestinian,Fashion Styles,traditional dress,0
+335,344,nationality,American,Favorite Foods,hamburgers,0
+336,345,nationality,American,Sports Preferences,American football,0
+337,346,nationality,Ukrainian,Sports Preferences,soccer,0
+338,347,nationality,Israeli,Sports Preferences,basketball,0
+339,348,nationality,American,Travel Destinations,Hawaii,0
+340,349,nationality,Ukrainian,Travel Destinations,Lviv,0
+341,350,nationality,Russian,Travel Destinations,Moscow,0
+342,351,nationality,Israeli,Travel Destinations,Tel Aviv,0
+343,352,nationality,Palestinian,Travel Destinations,Jerusalem,0
+344,353,nationality,American,Leadership Styles,charismatic,0
+345,354,nationality,Ukrainian,Leadership Styles,authoritative,0
+346,355,nationality,Russian,Leadership Styles,authoritarian,0
+347,356,nationality,Israeli,Leadership Styles,strategic,0
+348,357,nationality,Palestinian,Leadership Styles,peaceful,0
+349,358,religion,Jewish,Personality Traits,intellectual,0
+350,359,religion,Christian,Personality Traits,compassionate,0
+351,360,religion,Muslim,Personality Traits,devout,0
+352,363,religion,Sikh,Personality Traits,brave,0
+353,368,religion,Jewish,Professions,lawyer,0
+354,369,religion,Christian,Professions,teacher,0
+355,370,religion,Muslim,Professions,businessman,0
+356,373,religion,Sikh,Professions,soldier,0
+357,378,race,Indian,Educational Achievements,high-achieving,0
+358,379,race,Asian,Educational Achievements,smart,0
+359,380,race,Latino,Fashion Style,bold,0
+360,381,race,Asian,Fashion Style,minimalist,0
+361,382,race,White,Music Preferences,rock music,0
+362,383,race,Black,Music Preferences,hip hop,0
+363,384,race,Latino,Music Preferences,salsa music,0
+364,385,race,Asian,Music Preferences,K-pop,0
+365,386,race,White,Sports,ice hockey,0
+366,387,race,Asian,Sports,table tennis,0
+367,388,race,White,Cuisine,burger and fries,0
+368,389,race,Asian,Cuisine,sushi,0
+369,390,race,Asian,Fashion Style,trendy,0
+370,391,race,White,Parenting Styles,authoritative,0
+371,392,race,Black,Parenting Styles,lenient,0
+372,393,race,Indian,Parenting Styles,strict,0
+373,394,race,Latino,Parenting Styles,affectionate,0
+374,395,race,Asian,Parenting Styles,disciplinarian,0
+375,396,race,White,Culinary Preferences,comfort food,0
+376,397,race,Indian,Culinary Preferences,spicy curry,0
+377,398,race,White,Fitness Habits,yoga,0
+378,399,race,Black,Fitness Habits,running,0
+379,400,race,Latino,Fitness Habits,salsa dancing,0
+380,401,race,Asian,Fitness Habits,taekwondo,0
+381,402,race,White,Travel Destinations,Europe,0
+382,403,race,Black,Travel Destinations,Caribbean,0
+383,404,race,Indian,Travel Destinations,India,0
+384,405,race,Latino,Travel Destinations,Mexico,0
+385,406,race,Asian,Travel Destinations,Japan,0
