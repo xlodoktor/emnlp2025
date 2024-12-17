@@ -42,7 +42,7 @@ Under the outputs directory.
 ### Module tables
 Each module has basically the same structure of table:
 * initial stereotype table (`<basetable>`):
-  * **id**: unique row ID
+  * **rowid**: unique row ID
   * **refid**: reference to a previous model row ID from where the data is generated/derived. In the case of `baseline` it points to the `termdefs` table's row ID. Otherwise, it points to the `baseline`'s row ID
   * **bias_type**: same as in termdefs
   * **id_term**: same as in termdefs
@@ -70,10 +70,14 @@ Each module has basically the same structure of table:
   * **score**: if the model provides score then we also store that value for future reference (and spare time, and other resources)
 
 We have different modules, that is we have the following values for `<basetable>`:
-* **baseline**: the naive generation of test sentences based on `termdefs` data
+* **baseline**: the naive generation of test sentences based on `termdefs` data.
+    * **isValid**: manual revision of the data. Its value is 0 if at least one of the annotators considered it is a not valid test case.
 * **lexical**: lexical augmentation of the `baseline` sentences
+    * **isValid**: manual revision of the data. Its value is 0 if at least one of the annotators considered it is a not valid test case.
 * **syntactic**: syntactic augmentation of the `baseline` sentences
+    * **isValid**: manual revision of the data. Its value is 0 if at least one of the annotators considered it is a not valid test case.
 * **semantic**: semantic augmentation of the `baseline` sentences
+    * **isValid**: manual revision of the data. Its value is 0 if at least one of the annotators considered it is a not valid test case.
 
 ## Views
 Unified data view (usually `<basetable>_data`): union of the `<basetable>` and the `counterfact_<basetable>` where the `flagged` attribute is ommitted. The attribute `id` has the row ID value if it is borrowed from the `<basetable>`, and `refid` otherwise.
