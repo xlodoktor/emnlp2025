@@ -92,7 +92,8 @@ For instance, the table `lexical_data` was created by the following script:
 
 In case of `semantic_data` the only difference is there is no `concept_term` in the view since the base table does not contain one.
 
-# Relevant Article
+# Citation
+Please, use the following reference when citing in a scientific article.
 
     @inproceedings{kardkovacs2025btcsam,
       title={{BTC}-{SAM}: Leveraging {LLM}s for Generation of Bias Test Cases for Sentiment Analysis Models},
