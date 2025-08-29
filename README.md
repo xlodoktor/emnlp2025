@@ -91,3 +91,12 @@ For instance, the table `lexical_data` was created by the following script:
         FROM counterfact_lexical2
 
 In case of `semantic_data` the only difference is there is no `concept_term` in the view since the base table does not contain one.
+
+# Article and Cite
+@inproceedings{kardkovacs2025btcsam,
+  title={{BTC}-{SAM}: Leveraging {LLM}s for Generation of Bias Test Cases for Sentiment Analysis Models},
+  author={Zsolt T. Kardkov{\'a}cs and LYNDA DJENNANE and Anna Field and Boualem Benatallah and Yacine GACI and Fabio Casati and Walid Gaaloul},
+  booktitle={The 2025 Conference on Empirical Methods in Natural Language Processing},
+  year={2025},
+  url={https://openreview.net/forum?id=pNVJszlKOz}
+}
